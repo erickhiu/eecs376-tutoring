@@ -6,9 +6,9 @@ parts:
     chapters:
     - file: algorithms/algorithms.md
       sections:
-      - file: algorithms/asymp-pair.md
+      - file: algorithms/asymp-pair/asymptotic-pairs.md
       sections:
-      - file: algorithms/instructor-notes.md
+      - file: algorithms/asymp-pair/instructor-notes.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
