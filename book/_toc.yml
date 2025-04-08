@@ -7,8 +7,8 @@ parts:
     - file: algorithms/algorithms.md
       sections:
       - file: algorithms/asymp-pair/asymptotic-pairs.md
-      sections:
-      - file: algorithms/asymp-pair/instructor-notes.md
+        sections:
+        - file: algorithms/asymp-pair/instructor-notes.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
