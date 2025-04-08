@@ -31,11 +31,4 @@ parts:
     - file: references.md
     - file: changelog.md
     - file: credits.md
-  - caption: Algorithms
-    Chapters:
-    - file: algorithms/algorithms.md
-      sections:
-      - file: algorithms/asymp-pair/asymptotic-pairs.md
-        sections:
-        - file: algorithms/asymp-pair/instructor-notes.md
 
