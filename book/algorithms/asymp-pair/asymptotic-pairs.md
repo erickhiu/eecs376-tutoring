@@ -1,8 +1,5 @@
-# Learning Objective
-- Text
-- Text
+# Asymptotic Pairs
 
-# Main Activity
 ## Part 1
 In line math: $y = mx+b$
 
