@@ -16,7 +16,7 @@ By the end of this activities, students should be able to:
 
 **Time:** 3-5 minutes
 
-**Setup:**: 
+**Setup:**
 - As students walk in, have pick a runtime card.
 - Instructions on the slide:
   > - If you have an $n^2$ card, find someone with an $n \log n$ card.

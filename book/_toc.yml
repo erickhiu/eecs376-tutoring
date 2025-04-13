@@ -8,4 +8,5 @@ parts:
       sections:
       - file: algorithms/asymp-pair/asymptotic-pairs.md
       - file: algorithms/pair-n-halt/pair-n-halt.md
+      - file: algorithms/fib-bin/fib-bin.md
 

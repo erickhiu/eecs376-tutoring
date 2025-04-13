@@ -5,7 +5,7 @@ By the end of this activities, students should be able to:
 
 1. Practice recognizing halting behavior in code by analyzing control flow.
 2. Build intuition for how `if-else` logic can ensure halting regardless of input.
-3. Introduce and familiarize students with the potential method as a way to reason about whether an algorithm will eventually halt.
+3. Practice with the potential method as a way to reason about whether an algorithm will eventually halt.
 
 ## 🧰 Materials / Props
 - [Code snippet](./code-snippets.pdf): Each student receives either an “if-block” or “else-block” snippet. Below is the version used in winter 25. 
@@ -93,9 +93,9 @@ See detailed solution [here](./pair-n-halt-sol.pdf).
   _These feedbacks are collected from my midterm/final teaching evaluation, on "which classroom activity was your favorite or most helpful and why?"_
 
 ## 📝 Eric's Notes
-- First tried in F24 in BBB 1690 — great room for students to move around and find a partner to make the algorithm halt.
+- First tried in Fall 24 in BBB 1690 — great room for students to move around and find a partner to make the algorithm halt.
 
-- In W25, I had EECS 1005 — a mini lecture hall–style room. It was a bit harder for students to circulate, so the energy wasn’t quite the same, but still worked decently if you encouraged vocal pairing.
+- In Winter 25, I had EECS 1005 — a mini lecture hall–style room. It was a bit harder for students to circulate, so the energy wasn’t quite the same, but still worked decently if you encouraged vocal pairing.
 
 - This activity inspired an exam question on the Winter 2025 midterm, which asked students to analyze a randomized halting process involving “maize” and “blue” particles. In each time unit, one of the following reactions must occur at random:
     - **Fusion**: Two maize particles combine to form one blue particle.
