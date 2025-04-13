@@ -68,7 +68,7 @@ Here, we discuss a more general solution (and eventually lead to the recurrence 
 - This activity is an improved version of the one I ran in Fall 24, 
     - That version asked students to draw a tree of all fibbinary strings of length 3 and 4, then use the patterns they observed to compute $C(5)$ — but without explicitly expanding the tree for length 5.
     - It was underwhelming and felt more like a worksheet than a dynamic activity.
-- The relay race format in Winter worked _much better_, especially after adapting it to the classroom's seating. 
+- The relay race format in Winter 25 worked _much better_, especially after adapting it to the classroom's seating. 
     - It created natural urgency and forced collaboration, as each student had to understand the recurrence well enough to explain or build on it quickly.
     - It also encouraged peer teaching, since teammates had to explain their insights to each other on the fly.
 - I ran this activity twice in Winter 25:
