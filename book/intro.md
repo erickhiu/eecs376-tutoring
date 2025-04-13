@@ -21,7 +21,7 @@ During my undergraduate, I spent two years conducting research in undergraduate 
 - Interactive learning materials (e.g., interative textbooks) and how students use them.
 - Classroom inclusivity, particularly for students from diverse academic and socioeconomic backgrounds.
 
-My teaching experience extends beyond EECS as well. I worked as a tutor in the Math Lab (Math Learning Center) in 2023 and taught Math 310: Chances and Choice in Winter 2025. I was honored to received Honored Instructor award for the 2024–2025 academic year from Michigan Housing.
+My teaching experience extends beyond EECS as well. I worked as a tutor in the Math Lab (Math Learning Center) in 2023 and taught Math 310: Chances and Choice in Winter 2025. I was honored to received the Honored Instructor award for the 2024–2025 academic year from Michigan Housing.
 
 <p align="center">
     <img src="figures/honored-instructor.jpg" alt="Honored Instructor Certificate" style="width:60%; filter: none;">
