@@ -13,10 +13,10 @@ build_book() {
 # Initial build
 build_book
 
-# Start livereload in background
+# Start a static HTTP server (no livereload)
 cd _build/html || exit
 echo "Serving book at http://localhost:8000/"
-livereload . -p 8000 &
+python3 -m http.server 8000 &
 cd ../..
 
 # Watch source directory and rebuild on changes
@@ -25,3 +25,8 @@ watchmedo shell-command \
   --recursive \
   --command='echo "Detected change. Rebuilding..."; jupyter-book build . --quiet' \
   .
+
+
+# If port in use
+# lsof -i :8000
+# kill <PID> or kill -9 <PID>
