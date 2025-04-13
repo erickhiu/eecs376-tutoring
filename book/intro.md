@@ -17,7 +17,7 @@ I'm Eric Khiu, a soon-alum of the University of Michigan Class of 2025, majoring
 
 I've served as an Instructional Aide (IA) for EECS 376 across four terms: Winter 2024, Spring 2024, Fall 2024, and Winter 2025. Throughout these semesters, I've designed and refined a variety of discussion-based activities — many of which are featured on this site.
 
-During my undergraduate, I spent two years conducting research in undergraduate mathematics education, with a focus on:
+During my undergraduate, I spent two years working in Research in Teaching Mathematics in Undergraduate Settings (RTMUS) Lab, with a research focus on:
 - Interactive learning materials (e.g., interative textbooks) and how students use them.
 - Classroom inclusivity, particularly for students from diverse academic and socioeconomic backgrounds.
 
