@@ -8,7 +8,7 @@ By the end of this activities, students should be able to:
 3. Practice with the potential method as a way to reason about whether an algorithm will eventually halt.
 
 ## 🧰 Materials / Props
-- [Code snippet](./code-snippets.pdf): Each student receives either an “if-block” or “else-block” snippet. Below is the version used in winter 25. 
+- [Code snippet](./code-snippets.pdf): Each student receives either an “if-block” or “else-block” snippet. Below is the version used in Winter 25. 
 
 <table>
   <tr valign="top">
@@ -89,8 +89,8 @@ By the end of this activities, students should be able to:
 
 See detailed solution [here](./pair-n-halt-sol.pdf).
 
-## 💬 Students' Feedback
-  _These feedbacks are collected from my midterm/final teaching evaluation, on "which classroom activity was your favorite or most helpful and why?"_
+<!-- ## 💬 Students' Feedback
+  _These feedbacks are collected from my midterm/final teaching evaluation, on "which classroom activity was your favorite or most helpful and why?"_ -->
 
 ## 📝 Eric's Notes
 - First tried in Fall 24 in BBB 1690 — great room for students to move around and find a partner to make the algorithm halt.

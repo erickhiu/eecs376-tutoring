@@ -13,10 +13,18 @@ build_book() {
 # Initial build
 build_book
 
+# Kill any process using port 8000
+PORT=8000
+PID=$(lsof -ti tcp:$PORT)
+if [ -n "$PID" ]; then
+  echo "Port $PORT is in use by PID $PID. Terminating..."
+  kill -9 $PID
+fi
+
 # Start a static HTTP server (no livereload)
 cd _build/html || exit
-echo "Serving book at http://localhost:8000/"
-python3 -m http.server 8000 &
+echo "Serving book at http://localhost:$PORT/"
+python3 -m http.server $PORT &
 cd ../..
 
 # Watch source directory and rebuild on changes
@@ -25,8 +33,3 @@ watchmedo shell-command \
   --recursive \
   --command='echo "Detected change. Rebuilding..."; jupyter-book build . --quiet' \
   .
-
-
-# If port in use
-# lsof -i :8000
-# kill <PID> or kill -9 <PID>
