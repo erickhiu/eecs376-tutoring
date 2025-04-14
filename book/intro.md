@@ -17,11 +17,14 @@ I'm Eric Khiu, a soon-alum of the University of Michigan Class of 2025, majoring
 
 I've served as an Instructional Aide (IA) for EECS 376 across four terms: Winter 2024, Spring 2024, Fall 2024, and Winter 2025. Throughout these semesters, I've designed and refined a variety of discussion-based activities — many of which are featured on this site.
 
-During my undergraduate, I spent two years working in Research in Teaching Mathematics in Undergraduate Settings (RTMUS) Lab, with a research focus on:
-- Interactive learning materials (e.g., interative textbooks) and how students use them.
-- Classroom inclusivity, particularly for students from diverse academic and socioeconomic backgrounds.
+My teaching experience extends beyond EECS as well. I worked as a tutor in the Math Lab (Math Learning Center) in 2023 and taught Math 310: Chances and Choice in Winter 2025. 
 
-My teaching experience extends beyond EECS as well. I worked as a tutor in the Math Lab (Math Learning Center) in 2023 and taught Math 310: Chances and Choice in Winter 2025. I was honored to received the Honored Instructor award for the 2024–2025 academic year from Michigan Housing.
+During my undergraduate, I spent two years in Research in Teaching Mathematics in Undergraduate Settings (RTMUS) Lab under supervision of Prof. Vilma Mesa, with a research focus on:
+- The design and use of interactive learning materials, such as digital textbooks, and how students engage with them to build conceptual understanding.
+- Learning theories and pedagogical strategies that support the development of mathematical mastery.
+- Classroom inclusivity, with particular attention to supporting students from diverse academic and socioeconomic backgrounds.
+
+I was also honored to received the Honored Instructor award for the 2024–2025 academic year from Michigan Housing.
 
 <p align="center">
     <img src="figures/honored-instructor.jpg" alt="Honored Instructor Certificate" style="width:60%; filter: none;">
