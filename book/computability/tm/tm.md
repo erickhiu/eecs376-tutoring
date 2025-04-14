@@ -1,4 +1,4 @@
-# Activity Name
+# Turing Machine Playground
 
 ## 🎯 Learning Objectives
 By the end of this activities, students should be able to:
@@ -7,7 +7,7 @@ By the end of this activities, students should be able to:
 
 ## 🕹️ Activity Walkthrough
 
-**Time**:
+**Time*:*
 
 **Setup**:
 

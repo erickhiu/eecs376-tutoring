@@ -10,5 +10,10 @@ parts:
       - file: algorithms/pair-n-halt/pair-n-halt.md
       - file: algorithms/closest-pair/closest-pair.md
       - file: algorithms/fib-bin/fib-bin.md
-      - file: algorithms/copying/copying.md
+      - file: algorithms/copying/ad.md
+    - file: computability/computability.md
+      sections:
+      - file: computability/dfa/dfa.md
+      - file: computability/tm/tm.md
+      - file: computability/tangram/tangram.md
 

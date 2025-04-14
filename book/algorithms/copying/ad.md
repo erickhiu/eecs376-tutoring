@@ -12,9 +12,9 @@ By the end of this activities, students should be able to:
 
 ## 🕹️ Activity Walkthrough
 
-**Time:** 8-10 minutes
+**Time**: 8-10 minutes
 
-**Setup:**
+**Setup**:
 - Present the problem using the story: 
   > Nick is trying to design an advertisement, but Droopy is charging him for every row of text he uses! Each row can fit 10 characters, including letters, spaces, and punctuation. Nick needs to place the text in order, without splitting any words across rows. His goal is to use the fewest number of rows possible to keep the costs low and avoid paying too much to Droopy.
 - Show Nick's attempt (5 rows), which students will later try to beat (or match).
@@ -29,7 +29,7 @@ By the end of this activities, students should be able to:
       - Compare where their solution first differs from Nick’s.
       - Reflect on whether multiple optimal layouts exist and why.
 
-**💡Facilitating Tips:**
+**💡Facilitating Tips**:
 - For pairs who finish early, prompt them to come up with alternate arrangements that still use the same number of rows.
 - During discussion, guide students to notice that optimal solutions may differ in where words appear (e.g., “lazy” on line 4 vs. 5), but the total number of rows remains the same.
 - Introduce the exchange argument as a formal justification for the greedy approach: if two optimal solutions differ, the first point of difference can be "exchanged" without increasing cost, preserving optimality.

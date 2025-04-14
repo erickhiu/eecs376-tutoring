@@ -47,9 +47,9 @@ By the end of this activities, students should be able to:
 ## 🕹️ Activity Walkthrough
 ### Part 1: Pair and Icebreak!
 
-**Time:** 3-5 minutes
+**Time**: 3-5 minutes
 
-**Setup:**
+**Setup**:
 - As students walk in, hand each person a card with either an “if-block” or “else-block” snippet.
 - Instructions on the slide:
     > If you have an "if-block", find someone with an "else-block" (and vice versa) so that, when combined, your code snippets ensure this program will always halt **regardless of user's input**.
@@ -62,16 +62,16 @@ By the end of this activities, students should be able to:
     >   [else-block]
     > ```
 
-**💡Facilitating Tips:**
+**💡Facilitating Tips**:
 - Encourage students to reason _informally_ about how the control flow plays out.
 - Emphasize what “regardless of user’s input” really means — for example, the user could always input values that try to make the loop run forever. A correct pair must ensure the loop still halts no matter what values the user chooses for `x`, `y`, and `z`. 
 - Circulate and listen for natural language justifications like “it always decreases `x` eventually” or “this guarantees `y` gets to 0.”
 
 ### Part 2: Prove It with Potential!
 
-**Time:** 8-10 minutes
+**Time**: 8-10 minutes
 
-**Setup:**
+**Setup**:
 - Let students keep their runtime cards and stay with their partner from Part 1.
 - After reviewing the concepts (and most importantly, the requirements) of potential functions, prompt the students to formally prove their combined program always halts
 - Instructions on the slide:
@@ -79,7 +79,7 @@ By the end of this activities, students should be able to:
 > - Define a "time unit" such that $s$ stricyly decreases on each time unit.
 > - Justify that $s$ has a lower bound, otherwise the program must terminate. 
 
-**💡Facilitating Tips:**
+**💡Facilitating Tips**:
 - Suggest common potential functions that are linear combination of the two variables. 
 - Emphasize that the time unit doesn't always have to be one iteration of the for-loop, _they define the time unit_. 
 - Wrap up the discussion with a general linear combination approach (see instructor's solution), but stress that this is not the only way and this approach may not be applicable (and usually not) to more complex problems (take EECS 477!).

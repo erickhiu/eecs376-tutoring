@@ -19,9 +19,9 @@ If you'd like to create your own version of the worksheet, you can use the raw i
 
 ## 🕹️ Activity Walkthrough
 
-**Time:** 15-20 minutes
+**Time**: 15-20 minutes
 
-**Setup:**
+**Setup**:
 - Distribute printed worksheets and rulers to each group of 3-4 students.
 - Group should complete two spatial challenges involving point placements and distance mesaurements.
 
@@ -52,7 +52,7 @@ If you'd like to create your own version of the worksheet, you can use the raw i
     </p>
     </blockquote>
 
-**💡Facilitating Tips:**
+**💡Facilitating Tips**:
 - Remind students to use rulers carefully and consistently.
 - In discussions, guide them toward key divide-and-conquer ideas: limiting comparisons by partitioning the plane.
 - Consider drawing parallels to the 1D closest pair problem or sorting-based approaches.
