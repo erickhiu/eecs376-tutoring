@@ -7,3 +7,6 @@ Activities in this unit:
 - **DFA**: [*DFA Pictionary Challenge*](dfa/dfa.md)
 - **Turing Machines**: [*Turing Machines Playground*](tm/tm.md)
 - **Turing Reductions**: [*TangraM*](tangram/tangram.md)
+
+Additional Worksheet
+- [-ability Potpourri](./others/ability.md)

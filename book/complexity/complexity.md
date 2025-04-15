@@ -6,3 +6,8 @@ Activities in this unit:
 
 - **NP-hardness and NP-completeness**: [Super Mario Bros.](./mario/mario.md)
 - **Approximation Algorithms**: [Runtime vs. Accuracy](./tradeoff/tradeoff.md)
+
+
+Additional worksheets:
+- [PNPotpourri](./others/pnpotpourri.md)
+- [Cook Levin Theorem Building Blocks](./others/clt.md)

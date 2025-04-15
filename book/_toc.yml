@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Content
+  - caption: Discussion Activities
     chapters:
       - file: algorithms/algorithms.md
         sections:
@@ -17,13 +17,17 @@ parts:
           - file: computability/dfa/dfa.md
           - file: computability/tm/tm.md
           - file: computability/tangram/tangram.md
+          - file: computability/others/ability.md
 
       - file: complexity/complexity.md
         sections:
           - file: complexity/mario/mario.md
           - file: complexity/tradeoff/tradeoff.md
+          - file: complexity/others/pnpotpourri.md
+          - file: complexity/others/clt.md
 
       - file: randomness/randomness.md
         sections:
           - file: randomness/colorful-edge/colorful-edge.md
           - file: randomness/unbiased-die/unbiased-die.ipynb
+
