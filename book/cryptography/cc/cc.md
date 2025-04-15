@@ -21,7 +21,7 @@ By the end of this activity, students should be able to:
     > The message was encrypted as follows:
     > - Convert each character to its ASCII code (e.g., `A` → `65`).
     > - Write the ASCII codes as decimal digits (e.g., `A&W` → `654387`).
-    > - Apply a Caesar Cipher to each digit invividually: $d \mapsto (d+k) \bmod 10$ for some secret key $k \in \{0, \ldots, 9\}.
+    > - Apply a Caesar Cipher to each digit invividually: $d \mapsto (d+k) \bmod 10$ for some secret key $k \in \{0, \ldots, 9\}$.
 
 **💡Facilitating Tips**:
 - Try to choose a short string for them to play with. 
