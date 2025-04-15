@@ -2,7 +2,7 @@
 _This activity was discontinued in Winter 2025._
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Reflect on the trade-off between algorithmic runtime and solution accuracy.
 2. Recognize how different problem domains may prioritize efficiency vs. correctness.
 3. Begin thinking critically about approximate vs. exact solutions in computationally hard problems.

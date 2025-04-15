@@ -2,7 +2,7 @@
 
 ## 🎯 Learning Objectives
 
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Break the ice and start forming community in the discussion section by engaging in a light and collaborative task.
 2. Review asymptotic notation concepts from EECS 203, including Big-O, Big-Omega, and Big-Theta.
 3. Identify and correct common misconceptions about asymptotic growth (e.g., worst case vs upper bound vs tight bound).

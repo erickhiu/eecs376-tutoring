@@ -1,7 +1,7 @@
 # Turing Machines Playground
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Analyze and interpret Turing machines using state diagrams.
 2. Visualize a Turing machine’s computation step-by-step using a simulation tool, gaining insight into how the machine processes input, transitions between states, and moves the tape head.
 

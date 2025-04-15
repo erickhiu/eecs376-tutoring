@@ -1,7 +1,7 @@
 # Fibbinary Strings Relay Race
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Recognize how overlapping subproblems emerge in recursive counting problems (e.g., fibbinary strings).
 2. Understand the advantage of storing and reusing computed values rather than recomputing everytime (i.e., the motivation for dynamic programming).
 

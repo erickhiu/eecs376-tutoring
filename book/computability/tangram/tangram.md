@@ -1,14 +1,14 @@
 # TangraM
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Construct complex Turing machines by composing simple subroutines.
 2. Understand how subroutine composition can realize desired computational properties.
 3. Feeling comfortable with the "creating machines within machines" Turing reduction problems. 
 
 ## 🧰 Materials / Props
 - [Tangram set](./Tangram.pdf): A Turing machine skeleton and a collection of subroutines. Winter 25 version: 
-    ```plaintext
+    ```
     function M'(w):
       if condition X is true then
         call [ ? ]

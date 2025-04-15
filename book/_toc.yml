@@ -31,3 +31,10 @@ parts:
           - file: randomness/colorful-edge/colorful-edge.md
           - file: randomness/unbiased-die/unbiased-die.ipynb
 
+      - file: cryptography/crypto.md
+        sections:
+          - file: cryptography/cc/cc.md
+            sections:
+            - file: cryptography/cc/cc-notebook.ipynb
+          - file: cryptography/tools/eea.ipynb
+          - file: cryptography/tools/repeat-square.ipynb

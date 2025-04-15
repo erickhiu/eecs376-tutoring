@@ -1,7 +1,7 @@
 # Colorful Edges
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Apply random processes to color a graph and analyze properties that arise from them.
 2. Define and compute expectations using indicator variables and linearity of expectation.
 3. Understand how uniform randomness and symmetry can simplify combinatorial probability

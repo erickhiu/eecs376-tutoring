@@ -1,7 +1,7 @@
 # DFA Pictionary Challenge
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Interpret a language description or regular expression and construct an equivalent DFA.
 2. Analyze a given DFA and describe the language it recognizes in plain English or using a regular expression.
 

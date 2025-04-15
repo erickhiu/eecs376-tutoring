@@ -1,7 +1,7 @@
 # Pair & Halt
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 
 1. Practice recognizing halting behavior in code by analyzing control flow.
 2. Build intuition for how `if-else` logic can ensure halting regardless of input.
@@ -53,7 +53,7 @@ By the end of this activities, students should be able to:
 - As students walk in, hand each person a card with either an “if-block” or “else-block” snippet.
 - Instructions on the slide:
     > If you have an "if-block", find someone with an "else-block" (and vice versa) so that, when combined, your code snippets ensure this program will always halt **regardless of user's input**.
-    > ```plaintext  
+    > ```
     > x ← user's input
     > x ← user's input
     > while x > 0 and y > 0 do

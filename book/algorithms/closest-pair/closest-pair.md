@@ -2,7 +2,7 @@
 _This activity was discontinued in Winter 25._
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Apply geometric reasoning to estimate minimal distances between 2D points.
 2. Use the Pigeonhole Principle to derive bounds on spatial arrangements.
 3. Explore optimizations related to divide-and-conquer in the context of the Closest Pair problem.

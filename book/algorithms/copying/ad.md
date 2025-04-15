@@ -2,7 +2,7 @@
 _This activity was converted into a "think-pair-share" mini activity in Winter 25._
 
 ## 🎯 Learning Objectives
-By the end of this activities, students should be able to:
+By the end of this activity, students should be able to:
 1. Apply a greedy strategy to solve optimization problems.
 2. Reason about the structure of greedy algorithms and the conditions under which they are optimal.
 3. Understand the exchange argument as a justification for greedy optimality (via class discussion)
