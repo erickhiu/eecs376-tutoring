@@ -40,4 +40,4 @@ parts:
           - file: cryptography/tools/eea.ipynb
           - file: cryptography/tools/repeat-square.ipynb
 
-  - caption: Intermission Series
+  # - caption: Intermission Series

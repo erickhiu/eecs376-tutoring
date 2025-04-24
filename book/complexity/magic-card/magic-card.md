@@ -1,4 +1,9 @@
+---
+title: Magic Number Cards
+---
+
 # Magic Number Cards
+
 
 ## 🎯 Learning Objectives
 By the end of this activities, students should be able to:
@@ -24,7 +29,7 @@ By the end of this activities, students should be able to:
 ## 📘 Instructor's Solution
 Each card tells one bit of the secret number. For example, if the secret number is 10, it should appear on cards 1 and 3. refer to the "lookup table"
   <p align="center">
-      <img src="./lookup.png" alt="Lookup table" style="width:80%; filter: none;">
+      <img src="./lookup.png" alt="Lookup table" style="width:50%; filter: none;">
   </p>
 Formally, let $s \in \{1, \ldots, k\} be a "secret integer" that nobody knows. Define
 
