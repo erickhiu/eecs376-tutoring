@@ -22,6 +22,7 @@ parts:
       - file: complexity/complexity.md
         sections:
           - file: complexity/mario/mario.md
+          - file: complexity/magic-card/magic-card.md
           - file: complexity/tradeoff/tradeoff.md
           - file: complexity/others/pnpotpourri.md
           - file: complexity/others/clt.md
@@ -38,3 +39,5 @@ parts:
             - file: cryptography/cc/cc-notebook.ipynb
           - file: cryptography/tools/eea.ipynb
           - file: cryptography/tools/repeat-square.ipynb
+
+  - caption: Intermission Series

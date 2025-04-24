@@ -5,6 +5,7 @@ In this unit, we study the complexity classes P and NP, discuss NP-hardness and 
 Activities in this unit:
 
 - **NP-hardness and NP-completeness**: [Super Mario Bros.](./mario/mario.md)
+- **Search to Decision**: [Magic Number Cards](./magic-card/magic-card.md)
 - **Approximation Algorithms**: [Runtime vs. Accuracy](./tradeoff/tradeoff.md)
 
 
