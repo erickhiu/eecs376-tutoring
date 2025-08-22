@@ -13,7 +13,9 @@ This shift reflects my own passion for teaching and learning — and my backgrou
 
 I'm Eric Khiu, a soon-alum of the University of Michigan Class of 2025, majoring in Computer Science, Data Science, and Mathematics.
 
-<center><em>[Placeholder for graduation picture, coming soon!]</em></center>
+<p align="center">
+    <img src="figures/duck-grad-pic.png" alt="Graduation picture" style="width:60%; filter: none;">
+</p>
 
 I've served as an Instructional Aide (IA) for EECS 376 across four terms: Winter 2024, Spring 2024, Fall 2024, and Winter 2025. Throughout these semesters, I've designed and refined a variety of discussion-based activities — many of which are featured on this site.
 
