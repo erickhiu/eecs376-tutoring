@@ -11,7 +11,7 @@ This shift reflects my own passion for teaching and learning — and my backgrou
 
 ## About Me
 
-I'm Eric Khiu, a soon-alum of the University of Michigan Class of 2025, majoring in Computer Science, Data Science, and Mathematics.
+I'm Eric Khiu, an alumnus of the University of Michigan Class of 2025, majoring in Computer Science, Data Science, and Mathematics.
 
 <p align="center">
     <img src="figures/duck-grad-pic.png" alt="Graduation picture" style="width:40%; filter: none;">
