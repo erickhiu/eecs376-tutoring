@@ -43,6 +43,6 @@ Some other comments I received from my recent teaching evaluations:
 
 ... and here is what people said about me on Reddit:
 <p align="center">
-    <img src="figures/reddit.png" alt="Reddit comments on Eric's teaching" style="width:60%; filter: none;">
+    <img src="figures/reddit.png" alt="Reddit comments on Eric's teaching" style="width:80%; filter: none;">
 </p>
 
