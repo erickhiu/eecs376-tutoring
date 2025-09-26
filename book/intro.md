@@ -40,3 +40,9 @@ Some other comments I received from my recent teaching evaluations:
 - "Eric is probably the best EECS TA I have had for any class. He explains things so well and is clearly very knowledgeable about this topic. He understands where students may have trouble." (F24)
 - "Eric was always great whether it was in discussion section or in his office hours. He always led us to the answers but didn't just give them to us. He's also very thorough when explaining things which is helpful for understanding it." (F24)
 - "Eric is doing a great job. Eric is probably the best EECS TA I have had for any class. He explains things so well and is clearly very knowledgeable about this topic. He understands where students may have trouble. Eric deserves a raise!" (F24)
+
+... and here is what people said about me on Reddit:
+<p align="center">
+    <img src="figures/reddit.png" alt="Reddit comments on Eric's teaching" style="width:60%; filter: none;">
+</p>
+
