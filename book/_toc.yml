@@ -1,8 +1,8 @@
 format: jb-book
 root: intro.md
 
-sections:
-- scheduling.md
+chapters:
+- file: scheduling.md
 
 # parts:
 #   - caption: Discussion Activities
