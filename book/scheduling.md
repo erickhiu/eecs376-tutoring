@@ -1,0 +1,10 @@
+# EECS 376 Tutoring
+
+Welcome to my tutoring page!
+
+<!-- Raw HTML starts here -->
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/eriqcy" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+<!-- Raw HTML ends here -->
