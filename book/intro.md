@@ -7,6 +7,8 @@ Welcome! This site is the landing page for my **private tutoring services** in E
 
 My goal is to provide **clear, engaging, and personalized guidance** — helping you strengthen your understanding of algorithms, complexity, and proof techniques while building confidence in problem solving.
 
+Interested? Schedule your session [here](https://erickhiu.github.io/eecs376-tutoring/main/scheduling.html).
+
 
 ## About Me
 
