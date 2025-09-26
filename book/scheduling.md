@@ -21,6 +21,6 @@ Please make sure to book **at least 24 hours in advance**.
 ## Book a Time
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/khiu-eric" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/khiu-eric/eecs-376-private-tutoring-individual-clone" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
