@@ -2,42 +2,43 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Discussion Activities
-    chapters:
-      - file: algorithms/algorithms.md
-        sections:
-          - file: algorithms/asymp-pair/asymptotic-pairs.md
-          - file: algorithms/pair-n-halt/pair-n-halt.md
-          - file: algorithms/closest-pair/closest-pair.md
-          - file: algorithms/fib-bin/fib-bin.md
-          - file: algorithms/copying/ad.md
+  - file: scheduling.md
+  # - caption: Discussion Activities
+  #   chapters:
+  #     - file: algorithms/algorithms.md
+  #       sections:
+  #         - file: algorithms/asymp-pair/asymptotic-pairs.md
+  #         - file: algorithms/pair-n-halt/pair-n-halt.md
+  #         - file: algorithms/closest-pair/closest-pair.md
+  #         - file: algorithms/fib-bin/fib-bin.md
+  #         - file: algorithms/copying/ad.md
 
-      - file: computability/computability.md
-        sections:
-          - file: computability/dfa/dfa.md
-          - file: computability/tm/tm.md
-          - file: computability/tangram/tangram.md
-          - file: computability/others/ability.md
+  #     - file: computability/computability.md
+  #       sections:
+  #         - file: computability/dfa/dfa.md
+  #         - file: computability/tm/tm.md
+  #         - file: computability/tangram/tangram.md
+  #         - file: computability/others/ability.md
 
-      - file: complexity/complexity.md
-        sections:
-          - file: complexity/mario/mario.md
-          - file: complexity/magic-card/magic-card.md
-          - file: complexity/tradeoff/tradeoff.md
-          - file: complexity/others/pnpotpourri.md
-          - file: complexity/others/clt.md
+  #     - file: complexity/complexity.md
+  #       sections:
+  #         - file: complexity/mario/mario.md
+  #         - file: complexity/magic-card/magic-card.md
+  #         - file: complexity/tradeoff/tradeoff.md
+  #         - file: complexity/others/pnpotpourri.md
+  #         - file: complexity/others/clt.md
 
-      - file: randomness/randomness.md
-        sections:
-          - file: randomness/colorful-edge/colorful-edge.md
-          - file: randomness/unbiased-die/unbiased-die.ipynb
+  #     - file: randomness/randomness.md
+  #       sections:
+  #         - file: randomness/colorful-edge/colorful-edge.md
+  #         - file: randomness/unbiased-die/unbiased-die.ipynb
 
-      - file: cryptography/crypto.md
-        sections:
-          - file: cryptography/cc/cc.md
-            sections:
-            - file: cryptography/cc/cc-notebook.ipynb
-          - file: cryptography/tools/eea.ipynb
-          - file: cryptography/tools/repeat-square.ipynb
+  #     - file: cryptography/crypto.md
+  #       sections:
+  #         - file: cryptography/cc/cc.md
+  #           sections:
+  #           - file: cryptography/cc/cc-notebook.ipynb
+  #         - file: cryptography/tools/eea.ipynb
+  #         - file: cryptography/tools/repeat-square.ipynb
 
-  # - caption: Intermission Series
+  # # - caption: Intermission Series
