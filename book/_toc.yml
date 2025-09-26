@@ -3,6 +3,7 @@ root: intro.md
 
 chapters:
 - file: scheduling.md
+- file: feedback.md
 
 # parts:
 #   - caption: Discussion Activities
