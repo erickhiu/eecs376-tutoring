@@ -16,7 +16,7 @@ I'm Eric Khiu, an alumnus of the University of Michigan Class of 2025, majoring 
     <img src="figures/duck-grad-pic.png" alt="Graduation picture" style="width:40%; filter: none;">
 </p>
 
-I've served as an Instructional Aide (IA) for EECS 376 across four terms: Winter 2024, Spring 2024, Fall 2024, and Winter 2025. Throughout these semesters, I've designed and refined a variety of discussion-based activities — many of which are featured on this site.
+I've served as an Instructional Aide (IA) for EECS 376 across four terms: Winter 2024, Spring 2024, Fall 2024, and Winter 2025. Throughout these semesters, I've designed and refined a variety of discussion-based activities — many of which are featured on [this site](https://erickhiu.github.io/eecs376-disc/main/intro.html).
 
 My teaching experience extends beyond EECS as well. I worked as a tutor in the Math Lab (Math Learning Center) in 2023 and taught Math 310: Chances and Choice in Winter 2025. 
 
