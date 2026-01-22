@@ -46,3 +46,7 @@ Some other comments I received from my recent teaching evaluations:
     <img src="figures/reddit.png" alt="Reddit comments on Eric's teaching" style="width:80%; filter: none;">
 </p>
 
+## Contact
+If you have any question, reach out to me at [erickhiu@umich.edu](mailto:erickhiu@umich.edu)
+
+
