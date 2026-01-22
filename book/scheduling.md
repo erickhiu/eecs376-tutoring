@@ -1,27 +1,11 @@
 # Schedule a Session
 
-I currently offer two modes of tutoring:
-
-- **Individual** — $25 per person per hour  
-- **Group** — $15 per person per hour (up to 5 people per group)  
-
-Each session is **1 hour long**.  
-Please make sure to book **at least 24 hours in advance**.  
-
 ## How It Works
 
-1. Choose your session type: Individual or Group.
-2. Pick a time that Eric is available.
-3. Receive a confirmation email with payment details.
-4. Complete payment to secure your slot.
-5. Once payment is confirmed, I’ll send you the meeting link and any prep materials.
-
-## Note for Group Sessions
-
-- Please form your own group (up to 5 people). I do **not** provide group matching. You are responsible for finding your group members.
-- Only one person should make the booking on behalf of the group.
-- That same person is responsible for making the single payment for the entire group.
-- When booking, indicate the group size and invite all members to the meeting using _Add Guest_.
+1. Pick a time that Eric is available.
+2. Receive a confirmation email about the booking.
+3. Complete payment through either Venmo (@eric_khiu) or Zelle (eriqcy@gmail.com) to secure your slot. The rate is **$25/hour**.
+4. Once payment is confirmed, I’ll send you the meeting link and any prep materials.
 
 ## Book a Time
 
